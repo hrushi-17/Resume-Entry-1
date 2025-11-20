@@ -1,0 +1,155 @@
+PERSONAL INFORMATION
+
+1. NAME : CHOTHE HRUSHIKESH SANJAY
+2. PRIMARY EMAIL : hrushikeshchothe@gmail.com
+3. SEC EMAIL : hrushikeshchothe1723@gmail.com
+4. CCPP ID : WILL BE ALOTED AFTER CCEE RESULTS
+5. DOB : 02/03/2002
+6. CORRE. ADDRESS: L.I.G.5, 322/338, Niljyoti Society, Gokhalenagar, Pune, Maharashtra 411016.
+7. PERMANENT ADD: 22/882 Ganesh Nagar, Near Aroma Bakery, Ichalkaranji, Hatkanangale, Kolhapur, Maharashtra 416115.
+8. NATIONALITY : indian
+9. GENDER : Male
+10. EXTRA CURR ACTIVITIES : Elementary & Intermediate Drawing – A Grade, Cricket, Gym & Fitness Activities, Participated in the 17th National Scout & Guide Event.
+11. LANGUAGES : ENGLISH, MARATHI, HINDI.
+
+ACADEMIC DETAILS:
+1. 10TH:
+2.SPECIALIZATION : GENERAL
+3. INSTITUTE: Ashoka Highschool,Ichalkaranji.
+4. BOARD : SSC
+5. GRADE : A
+6. OBTAINED MARKS : 401
+7. TOTAL MARKS: 500
+8. YEAR OF PASSING : 2018
+
+1. 12TH :
+2.SPECIALIZATION : Science
+3. INSTITUTE: Manere Junior College, Ichalkaranji.
+4. BOARD : HSC
+5. GRADE : A
+6. OBTAINED MARKS : 439
+7. TOTAL MARKS: 650
+8. YEAR OF PASSING : 2020
+
+GRADUATION DETAILS
+1. GRADUATION
+2. STREAM :ENG
+3. QUALIFICATION: B.Tech – Bachelor of Technology in Computer Science & Engineering (Artificial Intelligence)
+4. SPECIALIZATION: Computer Science & Engineering (Artificial Intelligence)
+5. UNIVERSITY : Shivaji University, Kolhapur.
+6. BACKLOGS : 0
+7. NO OF ATTEMPTS : 0
+8. GRADE/DIVISION : A
+9.COURSE DURATION: 4 YEARS
+10. YEAR OF ADMISSION: 2020-2021
+11. YEAR OF PASSING : 2023- 2024
+12. ENTER MARKS : EITHER SEM / YEAR TOTAL MARKS AND OBTAINED MARKS
+
+    sem1: 763 / 800
+    sem2: 860 / 1000 1st: 813 / 1000
+    sem3: 735 / 800 
+    sem4: 643 / 1000 2nd: 746 / 1000
+    sem5: 691 / 1000 
+    sem6: 700 / 900 3rd: 728 / 1000
+    sem7: 767 / 800 
+    sem8: 804 / 1000 4th: 749 / 1000
+
+Note: Please convert your CGPA or Grading to marks according to respective university formulae.
+
+ACADEMIC PROJECTS:
+1. SELECT QUALIFICATION: PG DAC
+2. DURATION : 1 MONTH FOR PG DAC 
+3. GIT REPOSITORY : https://github.com/harode12/Fitness_And_Diet_Tracking_App
+
+4. PROJECT DESCRIPTION : NutriFit is a .NET-based fitness tracking application that allows users to manage workouts, track daily nutrition, and monitor progress through interactive charts. The system includes user authentication, workout scheduling, meal planning, progress logging, and analytics such as weight trends, calorie comparison, and macro distribution. An admin dashboard manages users, exercises, and meal plans while generating overall fitness insights.
+
+5. PROJECT TITLE : NutriFit
+6. PLATFORM USED : EXPECTED TO WRITE EACH TECHNOLOGY TAUGHT AND USED LIKE MS DOT NET/JAVA/JAVA SCRIPT, HTML, CSS, MY SQL/MS SQL, TESTING TOOL USED, GIT, AWS/AZURE, ETC
+	MS .NET, ASP.NET, C#, HTML, CSS, JavaScript, React, MySQL, Chart.js, Git/GitHub, Visual Studio
+
+
+
+1. SELECT QUALIFICATION: COLLEGE PROJECT 1
+2. DURATION : 6 MONTHS FOR COLLEGE ACADEMIC
+3. GIT REPOSITORY :
+ 
+	https://simpl-tax.web.app/
+
+4. PROJECT DESCRIPTION : 
+	Developed precise tax calculation platform for new earners, ensuring accuracy and designed an efficient multi-page form forincome input, optimizing tax processing.
+	Enabled seamless navigation using React Browser Routing forblogs in varied views. Integrated Firebase for secure blogstorage, established CodeSandbox for instant tax insights.
+	
+5. PROJECT TITLE : Simple Tax Calculator
+6. PLATFORM USED :  HTML, CSS, JavaScript, React, NodeJS, Express.
+
+
+
+1. SELECT QUALIFICATION: COLLEGE PROJECT 2
+2. DURATION : 3 MONTHS FOR COLLEGE ACADEMIC
+3. GIT REPOSITORY :
+ 
+	https://timetool-27152.web.app/
+
+4. PROJECT DESCRIPTION : 
+	Designed a user-friendly time-tool that helps you to count the number of dates between the given dates, calculate zodiac sign and determine whether the year is leap year or not. Implemented robust input validation techniques ensuring accurate outputs for time tools, enhancing user experience and reliability of the web application. 
+
+5. PROJECT TITLE : Online Time Tool 
+6. PLATFORM USED :  HTML, CSS, JavaScript, Svelte, Node.js, Firebase, Bootstrap.
+
+
+
+1. SELECT QUALIFICATION: COLLEGE PROJECT 3
+2. DURATION : 6 MONTH FOR PG DAC 
+3. GIT REPOSITORY : https://github.com/hrushi-17/resume-analysis-tool.git
+4. PROJECT DESCRIPTION : SHORT DESCRIPTION INCLUDING PROBLEM STATEMENT. OBJECTIVE, TECHNOLOGIES USED, FUTURE SCOPE OF THE PROJECT
+5. PROJECT TITLE : Resume Analysis Tool
+6. PLATFORM USED : EXPECTED TO WRITE EACH TECHNOLOGY TAUGHT AND USED LIKE MS DOT NET/JAVA/JAVA SCRIPT, HTML, CSS, MY SQL/MS SQL, TESTING TOOL USED, GIT, AWS/AZURE, ETC
+	Python, Flask, HTML, CSS (Bootstrap), JavaScript, Plotly, Pandas, PyPDF2, NLTK, spaCy, Git/GitHub, VS Code.
+
+
+1. SELECT QUALIFICATION: COLLEGE PROJECT 3
+2. DURATION : 6 MONTH FOR PG DAC 
+3. GIT REPOSITORY : 
+
+
+4. PROJECT DESCRIPTION : 
+	Developed a dynamic gym management portal using Java Servlets and JSP for real-time member registration, OTP-based login authentication (JavaMail API), and personalized dashboard views. Integrated JDBC with MySQL using the DAO pattern for secure and modular data operations. Implemented BMI calculator, workout schedules, and diet plan modules for fitness tracking. Added responsive UI with Bootstrap, along with session handling, CRUD functionality, and OTP email verification to enhance user experience and security.
+
+5. PROJECT TITLE : Gym Management System
+6. PLATFORM USED : HTML, CSS, Bootstrap, Java, JSP, Servlets, JDBC, MySQL , JavaMail API.
+
+
+
+
+WORK EXP:
+1.DESIGNATION : TITLE OF POSITION 
+2.ORGANIZATION: NAME OF COMPANY
+3. FROM DATE : DATE OF OFFER/JOINING
+4.TO DATE : DATE OF RELEIVING / LAST DATE OF WORKING
+5. NATURE OF WORK : TYPE OF DUTIES
+
+OTHER INFORMATION:
+1. AADHAR NUMBER : 986816169015
+2. PASSPORT NO. : 
+3. RELIGION : Hindu
+4. CAST : Maratha
+5. TECHNICAL CERTIFICATION: ANY COURSE CERTIFICATION AWARDED (CCAT IS NOT TECHNICAL CERTIFICATE)
+	● Certified in Web Development by Internshala. Covering HTML, CSS, JavaScript. And responsive design.
+	● Completed ZENSAR ESD Program, gaining essential soft skills for professional communication and proficiency in Java, SQL.
+	● Java Full Stack Development Certification – Envision Computer Training Institute: Covered Core Java, JSP-Servlets, Spring Boot, Hibernate, MySQL, React, and front-end technologies with hands-on project experience.
+	● C Programming Certification – IIT Bombay (Spoken Tutorial Project): Successfully completed C training and online exam conducted by IIT Bombay, held at DKTE under the Spoken Tutorial initiative.
+
+6. TRAININGS : APART FROM ANY TECHNICAL TRAIININGS
+	
+7.EXTRA CURRICULAR : 
+	Achieved The Maharashtra State Elementary & Intermediate Drawing – A Grade
+	participated in the 17th National Jamboree of the Bharat Scouts and Guides
+	Cricket (School/College Level)
+	Gym & Fitness Activities
+	
+
+8. HOBBIES : 
+	Playing Cricket
+	Drawing
+	Gymming	
+	Travelling
