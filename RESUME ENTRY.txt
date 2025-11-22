@@ -35,14 +35,17 @@ GRADUATION DETAILS
 1. GRADUATION
 2. STREAM :ENG
 3. QUALIFICATION: B.Tech – Bachelor of Technology in Computer Science & Engineering (Artificial Intelligence)
-4. SPECIALIZATION: Computer Science & Engineering (Artificial Intelligence)
+4. SPECIALIZATION: Computer Science And Engineering With Artificial Intelligence
 5. UNIVERSITY : Shivaji University, Kolhapur.
+
+DKTE Society's Textile And Engineering Institute, Ichalkaranji.
+
 6. BACKLOGS : 0
-7. NO OF ATTEMPTS : 0
+7. NO OF ATTEMPTS : 1
 8. GRADE/DIVISION : A
 9.COURSE DURATION: 4 YEARS
-10. YEAR OF ADMISSION: 2020-2021
-11. YEAR OF PASSING : 2023- 2024
+10. YEAR OF ADMISSION: 2020
+11. YEAR OF PASSING : 2024
 12. ENTER MARKS : EITHER SEM / YEAR TOTAL MARKS AND OBTAINED MARKS
 
     sem1: 763 / 800
@@ -152,4 +155,5 @@ OTHER INFORMATION:
 	Playing Cricket
 	Drawing
 	Gymming	
+
 	Travelling
